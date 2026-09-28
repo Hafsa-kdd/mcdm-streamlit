@@ -1,0 +1,24 @@
+[theme]
+base = "light"
+primaryColor = "#8B5CF6"
+backgroundColor = "#F6F3FF"
+secondaryBackgroundColor = "#EFEAFE"
+textColor = "#2E2A47"
+borderColor = "#E6E0FA"
+showWidgetBorder = true
+baseRadius = "0.9rem"
+buttonRadius = "full"
+font = "Poppins:https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+headingFont = "Poppins:https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+headingFontWeights = [600, 600, 600, 500, 500, 500]
+baseFontSize = 15
+linkColor = "#8B5CF6"
+dataframeHeaderBackgroundColor = "#F3EEFF"
+chartCategoricalColors = ["#8B5CF6", "#EC4899", "#A78BFA", "#F472B6", "#6366F1", "#C084FC", "#FB7185", "#818CF8"]
+
+[theme.sidebar]
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F3FF"
+
+[client]
+toolbarMode = "minimal"

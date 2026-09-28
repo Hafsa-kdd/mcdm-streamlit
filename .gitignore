@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Outils locaux
+.claude/
+.vscode/
+.idea/
+
+# Secrets Streamlit (ne jamais publier)
+.streamlit/secrets.toml
